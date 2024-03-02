@@ -1,0 +1,23 @@
+{
+  "name": "starsmasher",
+  "version": "1.0.0",
+  "description": "Star Smasher is an arcade-style Pygame game where players control a spaceship and shoot down incoming stars.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feuao/StarSmasher"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "pixelpanic": "1.0.0"
+  }
+}
